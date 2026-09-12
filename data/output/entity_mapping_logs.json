@@ -1,0 +1,290 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+    },
+    "raw_name": "OpenAI, Inc.",
+    "canonical_name": "OpenAI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "item_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://news.ycombinator.com/"
+    },
+    "raw_name": "Open AI",
+    "canonical_name": "OpenAI",
+    "match_type": "ALIAS",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://news.ycombinator.com/",
+    "item_url": "https://news.ycombinator.com/",
+    "reason": "Deterministic resolution via ALIAS"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+    },
+    "raw_name": "Mecka AI",
+    "canonical_name": "Mecka AI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "item_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://www.ycombinator.com/companies/scale-ai"
+    },
+    "raw_name": "Scale AI, Inc.",
+    "canonical_name": "Scale AI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://www.ycombinator.com/companies/scale-ai",
+    "item_url": "https://www.ycombinator.com/companies/scale-ai",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://www.ycombinator.com/companies/replo/jobs/YcMC1B8-software-engineer-full-stack"
+    },
+    "raw_name": "Replo",
+    "canonical_name": "Replo",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://www.ycombinator.com/companies/replo/jobs/YcMC1B8-software-engineer-full-stack",
+    "item_url": "https://www.ycombinator.com/companies/replo/jobs/YcMC1B8-software-engineer-full-stack",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://www.ycombinator.com/companies/method-financial/jobs/XQmFunZ-senior-software-engineer"
+    },
+    "raw_name": "Method Financial",
+    "canonical_name": "Method Financial",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://www.ycombinator.com/companies/method-financial/jobs/XQmFunZ-senior-software-engineer",
+    "item_url": "https://www.ycombinator.com/companies/method-financial/jobs/XQmFunZ-senior-software-engineer",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://openai.com/chatgpt"
+    },
+    "raw_name": "OpenAI, Inc.",
+    "canonical_name": "OpenAI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://openai.com/chatgpt",
+    "item_url": "https://openai.com/chatgpt",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://openai.com/chatgpt"
+    },
+    "raw_name": "ChatGPT",
+    "canonical_name": "ChatGPT",
+    "match_type": "EXACT",
+    "entity_type": "PRODUCT",
+    "confidence": 1.0,
+    "source_url": "https://openai.com/chatgpt",
+    "item_url": "https://openai.com/chatgpt",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://anthropic.com/claude"
+    },
+    "raw_name": "Anthropic, PBC",
+    "canonical_name": "Anthropic",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://anthropic.com/claude",
+    "item_url": "https://anthropic.com/claude",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://anthropic.com/claude"
+    },
+    "raw_name": "Claude 3.5 Sonnet",
+    "canonical_name": "Claude 3.5 Sonnet",
+    "match_type": "EXACT",
+    "entity_type": "PRODUCT",
+    "confidence": 1.0,
+    "source_url": "https://anthropic.com/claude",
+    "item_url": "https://anthropic.com/claude",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/unknown-robotics"
+    },
+    "raw_name": "Some Unknown Robotics Corp",
+    "canonical_name": "Some Unknown Robotics Corp",
+    "match_type": "UNRESOLVED",
+    "entity_type": "STARTUP",
+    "confidence": 0.0,
+    "source_url": "https://techcrunch.com/unknown-robotics",
+    "item_url": "https://techcrunch.com/unknown-robotics",
+    "reason": "Deterministic resolution via UNRESOLVED"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/1"
+    },
+    "raw_name": "OpenAI, Inc.",
+    "canonical_name": "OpenAI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/1",
+    "item_url": "https://techcrunch.com/1",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/2"
+    },
+    "raw_name": "Open AI",
+    "canonical_name": "OpenAI",
+    "match_type": "ALIAS",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/2",
+    "item_url": "https://techcrunch.com/2",
+    "reason": "Deterministic resolution via ALIAS"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/3"
+    },
+    "raw_name": "Mecka AI",
+    "canonical_name": "Mecka AI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/3",
+    "item_url": "https://techcrunch.com/3",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/4"
+    },
+    "raw_name": "OpenAI, Inc.",
+    "canonical_name": "OpenAI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/4",
+    "item_url": "https://techcrunch.com/4",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/4"
+    },
+    "raw_name": "ChatGPT",
+    "canonical_name": "ChatGPT",
+    "match_type": "EXACT",
+    "entity_type": "PRODUCT",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/4",
+    "item_url": "https://techcrunch.com/4",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/5"
+    },
+    "raw_name": "OpenAI",
+    "canonical_name": "OpenAI",
+    "match_type": "EXACT",
+    "entity_type": "STARTUP",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/5",
+    "item_url": "https://techcrunch.com/5",
+    "reason": "Deterministic resolution via EXACT"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "ENTITY_MAPPING_LOG",
+    "source": {
+      "name": "Entity Resolver",
+      "url": "https://techcrunch.com/5"
+    },
+    "raw_name": "ChatGPT",
+    "canonical_name": "ChatGPT",
+    "match_type": "EXACT",
+    "entity_type": "PRODUCT",
+    "confidence": 1.0,
+    "source_url": "https://techcrunch.com/5",
+    "item_url": "https://techcrunch.com/5",
+    "reason": "Deterministic resolution via EXACT"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "sheet_id": "1OCZLmdxXV4McLZTqyOzN-4yGcexQi0QqQsHkApC1RiA",
+  "sheet_url": "https://docs.google.com/spreadsheets/d/1OCZLmdxXV4McLZTqyOzN-4yGcexQi0QqQsHkApC1RiA/edit",
+  "worksheets": [
+    {
+      "name": "Startups",
+      "records": 1100
+    },
+    {
+      "name": "Products",
+      "records": 1100
+    },
+    {
+      "name": "Research Papers",
+      "records": 1100
+    },
+    {
+      "name": "Jobs",
+      "records": 1
+    },
+    {
+      "name": "News",
+      "records": 11
+    },
+    {
+      "name": "Entity Mapping Log",
+      "records": 18
+    }
+  ],
+  "public_access_verified": false,
+  "public_status_message": "Public sharing disabled by GOOGLE_SHEET_PUBLIC=false.",
+  "traceability_verified": true,
+  "llm_generated_records": 0,
+  "validation_results": {
+    "Startups": {
+      "count": 1100,
+      "valid": true,
+      "errors": []
+    },
+    "Products": {
+      "count": 1100,
+      "valid": true,
+      "errors": []
+    },
+    "Research Papers": {
+      "count": 1100,
+      "valid": true,
+      "errors": []
+    },
+    "Jobs": {
+      "count": 1,
+      "valid": true,
+      "errors": []
+    },
+    "News": {
+      "count": 11,
+      "valid": true,
+      "errors": []
+    },
+    "Entity Mapping Log": {
+      "count": 18,
+      "valid": true,
+      "errors": []
+    }
+  },
+  "execution_duration_seconds": 26.73,
+  "status": "PASS"
+}

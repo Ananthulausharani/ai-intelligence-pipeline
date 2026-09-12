@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.env
+.pytest_cache/
+data/raw/
+
+# Credentials & Service Accounts
+*credentials*.json
+*service_account*.json
+service_account.json
+token*.json
+credentials.json
+
+credentials/service-account.json

@@ -1,0 +1,26 @@
+{
+  "target": 1100,
+  "verified_unique_papers": 1100,
+  "raw_records_received": 1100,
+  "duplicates_removed": 0,
+  "rejected_records": 0,
+  "papers_with_github": 20,
+  "papers_without_github": 1080,
+  "papers_with_stars": 20,
+  "github_enrichment_success_rate": 0.0182,
+  "source_traceability_rate": 1.0,
+  "paper_url_coverage": 1.0,
+  "fabricated_records": 0,
+  "status": "PASS",
+  "batches_requested": 6,
+  "records_returned_per_batch": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "failures_and_retries": 0,
+  "execution_duration_seconds": 87.49
+}

@@ -1,0 +1,47 @@
+{
+  "target_startups": 1100,
+  "target_products": 1100,
+  "startup_count": 1100,
+  "product_count": 1100,
+  "startup_sources": [
+    {
+      "source_name": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies",
+      "pages_attempted": 17,
+      "records_discovered": 1681,
+      "records_extracted": 1300,
+      "failed_requests": 0,
+      "status": "PASS"
+    }
+  ],
+  "product_sources": [
+    {
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/models",
+      "pages_attempted": 3,
+      "records_discovered": 1500,
+      "records_extracted": 1100,
+      "failed_requests": 0,
+      "status": "PASS"
+    },
+    {
+      "source_name": "There's An AI For That",
+      "source_url": "https://theresanaiforthat.com/",
+      "pages_attempted": 1,
+      "records_discovered": 247,
+      "records_extracted": 6,
+      "failed_requests": 0,
+      "status": "PASS"
+    }
+  ],
+  "duplicates_removed": 3,
+  "records_rejected": 0,
+  "records_with_null_employee_count": 24,
+  "records_with_null_pricing": 1100,
+  "source_traceability_rate": 100.0,
+  "fabricated_records": 0,
+  "startup_status": "PASS",
+  "product_status": "PASS",
+  "status": "PASS",
+  "elapsed_seconds": 30.68
+}
