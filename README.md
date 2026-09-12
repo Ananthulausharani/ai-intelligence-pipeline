@@ -199,13 +199,13 @@ The pipeline provides an automated, production-grade Google Sheets exporter (`sr
 Add the following variables to `.env` (refer to `.env.example`):
 ```env
 # Path to service account credentials JSON file or raw JSON string
-GOOGLE_SERVICE_ACCOUNT_JSON=credentials/service_account.json
+GOOGLE_SERVICE_ACCOUNT_JSON=credentials/service-account.json
 
 # Target Google Spreadsheet ID (from https://docs.google.com/spreadsheets/d/<SPREADSHEET_ID>/edit)
 GOOGLE_SHEET_ID=your_spreadsheet_id_here
 
 # Enable public link sharing check
-GOOGLE_SHEET_PUBLIC=true
+GOOGLE_SHEET_PUBLIC=false
 ```
 
 > [!IMPORTANT]
