@@ -89,7 +89,7 @@ def main() -> None:
         print("Required environment variables in .env:")
         print("  GOOGLE_SERVICE_ACCOUNT_JSON=<path_to_json_or_raw_json>")
         print("  GOOGLE_SHEET_ID=<spreadsheet_id>")
-        print("  GOOGLE_SHEET_PUBLIC=true\n")
+        print("  GOOGLE_SHEET_PUBLIC=false\n")
         print("Datasets are verified and formatted for upload.")
         print("To upload, provide credentials and run: python scripts/publish_google_sheet.py\n")
 
