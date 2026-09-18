@@ -1,0 +1,413 @@
+[
+  {
+    "tool_name": "Imagetoprompt ai",
+    "company_developer": null,
+    "official_website": "https://imagetoprompt.org/",
+    "logo_url": "https://imagetoprompt.org/icon.png?8590991355698212",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Imagetoprompt ai is an image to prompt generator that turns uploaded images into text prompts for various AI tools.",
+    "detailed_overview": "The tool allows users to upload an image and convert it into text prompts or generated images. It supports inputs such as images, text, and URLs, and produces text prompts and generated images as outputs. The pricing model is free with a verified free plan, and it operates as a web-based platform.",
+    "primary_task": "Image to Prompt",
+    "categories": [
+      "Image to Prompt",
+      "AI Prompt Generator"
+    ],
+    "tags": [
+      "image to prompt",
+      "ai prompt generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "URL"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Free",
+    "starting_price": null,
+    "free_plan": true,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "quality_score": 66.0,
+    "quality_score_breakdown": {
+      "capability": 16.0,
+      "usefulness": 18.0,
+      "adoption": 3.0,
+      "activity": 15.0,
+      "maturity": 4.0,
+      "recency": 3.0,
+      "differentiation": 2.0,
+      "information_quality": 5.0
+    },
+    "quality_score_rationale": "Tier: Average / Skip (66.0/100). Capability: 16.0/25 (Task: Image to Prompt, Modalities (3 in, 2 out), Platforms (1)) | Usefulness: 18.0/20 (High workflow utility domain, Documented problem solving) | Adoption: 3.0/15 (Active live service) | Activity: 15.0/15 (Active verified status) | Maturity: 4.0/10 (Dedicated domain, Pricing: Free) | Recency: 3.0/5 (Verified in current curation cycle) | Differentiation: 2.0/5 (Multi-modal pipeline) | Info Quality: 5.0/5 (Official website verified, Official logo verified, Pricing model verified, Descriptions verified)",
+    "last_verified_date": "2026-09-18T17:35:29.441103Z",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://imagetoprompt.org/",
+    "record_id": "candidate-imagetoprompt-ai",
+    "entity_type": "tool",
+    "created_at": "2026-09-18T17:34:59.056492Z",
+    "updated_at": "2026-09-18T17:37:38.636404Z"
+  },
+  {
+    "tool_name": "kimik3 ai",
+    "company_developer": null,
+    "official_website": "https://kimik3.net/",
+    "logo_url": "https://kimik3.net/favicon-48x48.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "kimik3 ai is an unofficial, independent guide and free playground for the Kimi K3 model.",
+    "detailed_overview": "It provides clear tutorials, working examples, an honest pricing breakdown starting at $19/month, a prompt cheat sheet, and a free chat that runs on the real Kimi K3 model. The platform supports text and code inputs while generating code and reports.",
+    "primary_task": "AI API",
+    "categories": [
+      "AI API",
+      "Large Language Models (LLMs)"
+    ],
+    "tags": [
+      "ai api",
+      "large language models (llms)"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "Code"
+    ],
+    "outputs": [
+      "Code",
+      "Report"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$19/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "quality_score": 66.0,
+    "quality_score_breakdown": {
+      "capability": 16.0,
+      "usefulness": 18.0,
+      "adoption": 3.0,
+      "activity": 15.0,
+      "maturity": 4.0,
+      "recency": 3.0,
+      "differentiation": 2.0,
+      "information_quality": 5.0
+    },
+    "quality_score_rationale": "Tier: Average / Skip (66.0/100). Capability: 16.0/25 (Task: AI API, Modalities (2 in, 2 out), Platforms (1)) | Usefulness: 18.0/20 (High workflow utility domain, Documented problem solving) | Adoption: 3.0/15 (Active live service) | Activity: 15.0/15 (Active verified status) | Maturity: 4.0/10 (Dedicated domain, Pricing: Paid) | Recency: 3.0/5 (Verified in current curation cycle) | Differentiation: 2.0/5 (Multi-modal pipeline) | Info Quality: 5.0/5 (Official website verified, Official logo verified, Pricing model verified, Descriptions verified)",
+    "last_verified_date": "2026-09-18T17:35:50.160776Z",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://kimik3.net/",
+    "record_id": "candidate-kimik3-ai",
+    "entity_type": "tool",
+    "created_at": "2026-09-18T17:34:59.056492Z",
+    "updated_at": "2026-09-18T17:37:56.385577Z"
+  },
+  {
+    "tool_name": "VidBG Remover",
+    "company_developer": null,
+    "official_website": "https://vidbgremover.com/",
+    "logo_url": "https://vidbgremover.com/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "VidBG Remover is an AI-powered video background removal tool that allows users to upload videos and obtain clean transparent backgrounds without requiring a green screen.",
+    "detailed_overview": "The tool processes video inputs to generate videos with removed backgrounds. It offers different processing modes such as a speed-priority basic option costing 2 credits per second and a high-quality option costing 3 credits per second for refined edge details.",
+    "primary_task": "AI Background Remover",
+    "categories": [
+      "AI Background Remover",
+      "AI Image Segmentation"
+    ],
+    "tags": [
+      "ai background remover",
+      "ai image segmentation"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Video"
+    ],
+    "outputs": [
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web",
+      "Windows"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "quality_score": 63.5,
+    "quality_score_breakdown": {
+      "capability": 14.0,
+      "usefulness": 18.0,
+      "adoption": 3.0,
+      "activity": 15.0,
+      "maturity": 4.0,
+      "recency": 3.0,
+      "differentiation": 1.5,
+      "information_quality": 5.0
+    },
+    "quality_score_rationale": "Tier: Average / Skip (63.5/100). Capability: 14.0/25 (Task: AI Background Remover, Modalities (1 in, 1 out), Platforms (2)) | Usefulness: 18.0/20 (High workflow utility domain, Documented problem solving) | Adoption: 3.0/15 (Active live service) | Activity: 15.0/15 (Active verified status) | Maturity: 4.0/10 (Dedicated domain, Pricing: Paid) | Recency: 3.0/5 (Verified in current curation cycle) | Differentiation: 1.5/5 (Cross-platform support) | Info Quality: 5.0/5 (Official website verified, Official logo verified, Pricing model verified, Descriptions verified)",
+    "last_verified_date": "2026-09-18T17:36:42.215530Z",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://vidbgremover.com/",
+    "record_id": "candidate-vidbg-remover",
+    "entity_type": "tool",
+    "created_at": "2026-09-18T17:34:59.056492Z",
+    "updated_at": "2026-09-18T17:39:46.559439Z"
+  },
+  {
+    "tool_name": "Fanfic Generator",
+    "company_developer": "AI Fanfic GeneratorImagineGoLetter Generator AI",
+    "official_website": "https://fanficgenerator.com/",
+    "logo_url": "https://fanficgenerator.com/images/logo/favicon-16x16.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "An AI fanfic generator designed to help users write engaging fanfiction stories paragraph by paragraph.",
+    "detailed_overview": "The tool allows users to set up a novel's basic information, including book title and genre, and create fan fiction stories to bring favorite characters and worlds to life. It includes features such as a character graph and a long-form writing boost. Verified inputs include text.",
+    "primary_task": "AI Fanfic Generator",
+    "categories": [
+      "AI Fanfic Generator",
+      "AI Book Writing"
+    ],
+    "tags": [
+      "ai fanfic generator",
+      "ai book writing"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$9/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "quality_score": 61.0,
+    "quality_score_breakdown": {
+      "capability": 10.0,
+      "usefulness": 16.0,
+      "adoption": 3.0,
+      "activity": 15.0,
+      "maturity": 8.0,
+      "recency": 3.0,
+      "differentiation": 1.0,
+      "information_quality": 5.0
+    },
+    "quality_score_rationale": "Tier: Average / Skip (61.0/100). Capability: 10.0/25 (Task: AI Fanfic Generator, Modalities (1 in, 0 out), Platforms (1)) | Usefulness: 16.0/20 (High workflow utility domain, Documented problem solving) | Adoption: 3.0/15 (Active live service) | Activity: 15.0/15 (Active verified status) | Maturity: 8.0/10 (Developer: AI Fanfic GeneratorImagineGoLetter Generator AI, Dedicated domain, Pricing: Paid) | Recency: 3.0/5 (Verified in current curation cycle) | Differentiation: 1.0/5 (Standard utility) | Info Quality: 5.0/5 (Official website verified, Official logo verified, Pricing model verified, Descriptions verified)",
+    "last_verified_date": "2026-09-18T17:36:01.143833Z",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://fanficgenerator.com/",
+    "record_id": "candidate-fanfic-generator",
+    "entity_type": "tool",
+    "created_at": "2026-09-18T17:34:59.056492Z",
+    "updated_at": "2026-09-18T17:38:45.583576Z"
+  },
+  {
+    "tool_name": "GPT Image 2.5 AI Video Generator",
+    "company_developer": null,
+    "official_website": "https://gptimage-2-5.com/",
+    "logo_url": "https://gptimage-2-5.com/apple-touch-icon.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "GPT Image 2.5 is an AI image generator that creates polished images from text or transforms reference photos with sharper detail and natural lighting.",
+    "detailed_overview": "The tool accepts text inputs to generate images and allows precise edits that change only what is requested. It provides generation up to 50% faster with enhanced detail, natural lighting, and texture. The verified pricing model is paid, with a starting price of $20 per month.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Text to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "text to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text"
+    ],
+    "outputs": [
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$20/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "quality_score": 61.0,
+    "quality_score_breakdown": {
+      "capability": 12.0,
+      "usefulness": 18.0,
+      "adoption": 3.0,
+      "activity": 15.0,
+      "maturity": 4.0,
+      "recency": 3.0,
+      "differentiation": 1.0,
+      "information_quality": 5.0
+    },
+    "quality_score_rationale": "Tier: Average / Skip (61.0/100). Capability: 12.0/25 (Task: AI Image Generator, Modalities (1 in, 1 out), Platforms (1)) | Usefulness: 18.0/20 (High workflow utility domain, Documented problem solving) | Adoption: 3.0/15 (Active live service) | Activity: 15.0/15 (Active verified status) | Maturity: 4.0/10 (Dedicated domain, Pricing: Paid) | Recency: 3.0/5 (Verified in current curation cycle) | Differentiation: 1.0/5 (Standard utility) | Info Quality: 5.0/5 (Official website verified, Official logo verified, Pricing model verified, Descriptions verified)",
+    "last_verified_date": "2026-09-18T17:36:16.853032Z",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://gptimage-2-5.com/",
+    "record_id": "candidate-gptimage-2-5",
+    "entity_type": "tool",
+    "created_at": "2026-09-18T17:34:59.056492Z",
+    "updated_at": "2026-09-18T17:38:56.797580Z"
+  },
+  {
+    "tool_name": "MenuForma",
+    "company_developer": null,
+    "official_website": "https://menuforma.com/",
+    "logo_url": "https://menuforma.com/logo-192.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "MenuForma is an AI-powered QR code and digital menu generator that turns menus into online ordering systems from PDFs, photos, or website links.",
+    "detailed_overview": "The tool processes image and PDF document inputs to create digital menus, pickup and delivery ordering systems, and QR menus. It offers a freemium model with a free forever plan and supports features such as online ordering, EU allergen support, and Google Review collection.",
+    "primary_task": "AI QR Code Generator",
+    "categories": [
+      "AI QR Code Generator",
+      "AI OCR"
+    ],
+    "tags": [
+      "ai qr code generator",
+      "ai ocr"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Android"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Freemium",
+    "starting_price": null,
+    "free_plan": true,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "quality_score": 60.0,
+    "quality_score_breakdown": {
+      "capability": 12.0,
+      "usefulness": 16.0,
+      "adoption": 3.0,
+      "activity": 15.0,
+      "maturity": 4.0,
+      "recency": 3.0,
+      "differentiation": 2.0,
+      "information_quality": 5.0
+    },
+    "quality_score_rationale": "Tier: Average / Skip (60.0/100). Capability: 12.0/25 (Task: AI QR Code Generator, Modalities (2 in, 0 out), Platforms (1)) | Usefulness: 16.0/20 (High workflow utility domain, Documented problem solving) | Adoption: 3.0/15 (Active live service) | Activity: 15.0/15 (Active verified status) | Maturity: 4.0/10 (Dedicated domain, Pricing: Freemium) | Recency: 3.0/5 (Verified in current curation cycle) | Differentiation: 2.0/5 (Multi-modal pipeline) | Info Quality: 5.0/5 (Official website verified, Official logo verified, Pricing model verified, Descriptions verified)",
+    "last_verified_date": "2026-09-18T17:36:46.684599Z",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://menuforma.com/",
+    "record_id": "candidate-menuforma",
+    "entity_type": "tool",
+    "created_at": "2026-09-18T17:34:59.056492Z",
+    "updated_at": "2026-09-18T17:39:50.506007Z"
+  }
+]

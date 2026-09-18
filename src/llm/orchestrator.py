@@ -48,7 +48,7 @@ GROQ_API_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 DEEPSEEK_API_ENDPOINT = "https://api.deepseek.com/chat/completions"
 
 # Default Model Names
-DEFAULT_GEMINI_MODEL = "gemini-3.6-flash"
+DEFAULT_GEMINI_MODEL = "gemini-3.5-flash-lite"
 DEFAULT_GROQ_MODEL = "llama-3.3-70b-versatile"
 DEFAULT_DEEPSEEK_MODEL = "deepseek-chat"
 
@@ -209,6 +209,12 @@ def _get_schema_instructions(record_type: str) -> str:
             '  "published_date": "string or null (ISO-8601 date, e.g. \'YYYY-MM-DD\')"\n'
             '}'
         ),
+        "AI_TOOL_DESCRIPTION": (
+            '{\n'
+            '  "short_description": "string (1-2 concise, factual sentences explaining what the tool does and its primary use case without marketing hype)",\n'
+            '  "detailed_overview": "string (2-5 concise, factual sentences covering verified task, capabilities, inputs/outputs, and pricing only if verified)"\n'
+            '}'
+        ),
     }
 
     return schemas.get(
@@ -362,8 +368,9 @@ class LLMOrchestrator:
 
         primary_model = os.getenv("GEMINI_MODEL", DEFAULT_GEMINI_MODEL)
         models_to_try = [primary_model]
-        if primary_model != "gemini-3.5-flash" and "1.5" not in primary_model:
-            models_to_try.append("gemini-3.5-flash")
+        for fallback in ("gemini-3.5-flash-lite", "gemini-3.6-flash", "gemini-3.5-flash"):
+            if fallback not in models_to_try:
+                models_to_try.append(fallback)
 
         system_prompt, user_prompt = build_prompts(text, record_type)
         payload = {
@@ -394,8 +401,8 @@ class LLMOrchestrator:
                 return parse_json_response(content_part)
             except urllib.error.HTTPError as exc:
                 last_exc = exc
-                if exc.code == 429 and len(models_to_try) > 1 and model != models_to_try[-1]:
-                    logger.info("Model '%s' quota reached; trying flash fallback '%s'", model, models_to_try[-1])
+                if exc.code in (429, 500, 502, 503, 504) and len(models_to_try) > 1 and model != models_to_try[-1]:
+                    logger.info("Model '%s' error %d; trying fallback '%s'", model, exc.code, models_to_try[-1])
                     continue
                 raise
             except json.JSONDecodeError as exc:

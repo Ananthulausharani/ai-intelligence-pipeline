@@ -1,0 +1,4217 @@
+[
+  {
+    "candidate_id": "candidate-imagetoprompt-ai",
+    "record_id": "candidate-imagetoprompt-ai",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:38.636404+00:00",
+    "tool_name": "Imagetoprompt ai",
+    "company_developer": null,
+    "official_website": "https://imagetoprompt.org/",
+    "logo_url": "https://imagetoprompt.org/icon.png?8590991355698212",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Imagetoprompt ai is an image to prompt generator that turns uploaded images into text prompts for various AI tools.",
+    "detailed_overview": "The tool allows users to upload an image and convert it into text prompts or generated images. It supports inputs such as images, text, and URLs, and produces text prompts and generated images as outputs. The pricing model is free with a verified free plan, and it operates as a web-based platform.",
+    "primary_task": "Image to Prompt",
+    "categories": [
+      "Image to Prompt",
+      "AI Prompt Generator"
+    ],
+    "tags": [
+      "image to prompt",
+      "ai prompt generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "URL"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Free",
+    "starting_price": null,
+    "free_plan": true,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:29.441103+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://imagetoprompt.org/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/imagetoprompt-ai",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-nano-bananapro",
+    "record_id": "candidate-nano-bananapro",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:40.113661+00:00",
+    "tool_name": "Nano Banana Pro",
+    "company_developer": null,
+    "official_website": "https://nano-bananapro.com/",
+    "logo_url": "https://nano-bananapro.com/favicon-32x32.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Nano Banana Pro is an AI image generator that supports text-to-image tasks and operates on the web.",
+    "detailed_overview": "The tool handles style transfer, outpainting, and 4x upscaling within a single workspace. It accepts image and text inputs and produces text prompts and generated images as outputs. Pricing and availability details such as free plans or APIs are not publicly verified.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Text to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "text to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:31.320581+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://nano-bananapro.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/nano-bananapro",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-c2anime",
+    "record_id": "candidate-c2anime",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:41.408563+00:00",
+    "tool_name": "C2Anime",
+    "company_developer": "C2Anime. All rights reserved.VO3 AI",
+    "official_website": "https://c2anime.com/",
+    "logo_url": "https://c2anime.com/icon.png?78f26e3b0e18aad1",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "C2Anime is an AI-powered anime generator designed to turn stories and ideas into anime videos. It provides tools to create casts, direct action, and produce animated scenes from text concepts.",
+    "detailed_overview": "The platform functions as an anime studio that guides users through creating their own stories, casting characters, developing storyboards, and ultimately generating anime videos. The verified output of the tool is video, and it operates on the web platform. Pricing details, inputs, integrations, and availability of an API or open-source status are not publicly verified.",
+    "primary_task": "AI Anime Generator",
+    "categories": [
+      "AI Anime Generator",
+      "Script To Video AI Generator"
+    ],
+    "tags": [
+      "ai anime generator",
+      "script to video ai generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:32.521555+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://c2anime.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/c2anime",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-cleverhumanizer",
+    "record_id": "candidate-cleverhumanizer",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:43.007303+00:00",
+    "tool_name": "Clever AI Detector",
+    "company_developer": null,
+    "official_website": "https://cleverhumanizer.ai/ai-detector",
+    "logo_url": "https://cleverhumanizer.ai/favicon-96x96.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Clever AI Detector is an AI content detector that estimates the probability that text was written by AI.",
+    "detailed_overview": "The tool provides sentence-level analysis, generating a probability score with sentence-level signals and confidence indicators. It accepts text, PDF, and documents as inputs and operates on the web. The pricing model is freemium with a free plan available.",
+    "primary_task": "AI Content Detector",
+    "categories": [
+      "AI Content Detector",
+      "AI Detector"
+    ],
+    "tags": [
+      "ai content detector",
+      "ai detector"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Notion"
+    ],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Freemium",
+    "starting_price": null,
+    "free_plan": true,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:33.698150+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://cleverhumanizer.ai/ai-detector",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/cleverhumanizer",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-noteai",
+    "record_id": "candidate-noteai",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:44.329553+00:00",
+    "tool_name": "NoteAI : Next-Gen AI Knowledge Extractor",
+    "company_developer": "NoteAI",
+    "official_website": "https://noteai.io/",
+    "logo_url": "https://noteai.io/logo.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "NoteAI is a next-gen AI knowledge extractor designed to summarize YouTube videos, audio, PDFs, and webpages into notes, transcripts, and mind maps.",
+    "detailed_overview": "The tool processes YouTube videos, video files, audio files, webpages, and long text to generate summaries, transcripts, and videos. It offers a paid pricing model starting at $3.00 per month and is supported on the web platform.",
+    "primary_task": "AI Youtube Summary",
+    "categories": [
+      "AI Youtube Summary",
+      "AI Summarizer"
+    ],
+    "tags": [
+      "ai youtube summary",
+      "ai summarizer"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [
+      "Summary",
+      "Transcript",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$3.00/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:35.654522+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://noteai.io/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/noteai",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-verla",
+    "record_id": "candidate-verla",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:45.564739+00:00",
+    "tool_name": "Verla AI",
+    "company_developer": null,
+    "official_website": "https://verla.io/",
+    "logo_url": "https://verla.io/icon.svg?381f08c63a93db97",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Verla AI is a personal AI assistant designed to help college students complete assignments by uploading requirements and generating complete work.",
+    "detailed_overview": "Users can upload requirements via PDF or documents to generate assignments in approximately 20 minutes. The platform also includes features to check for AI and humanize writing. It is accessible via the web, though specific pricing models, free plans, and outputs are not publicly verified in the text.",
+    "primary_task": "AI Thesis Generator",
+    "categories": [
+      "AI Thesis Generator",
+      "AI Education Assistant"
+    ],
+    "tags": [
+      "ai thesis generator",
+      "ai education assistant"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:38.037322+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://verla.io/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/verla",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-autodub",
+    "record_id": "candidate-autodub",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:47.083947+00:00",
+    "tool_name": "AutoDub",
+    "company_developer": null,
+    "official_website": "https://autodub.net/",
+    "logo_url": "https://autodub.net/icon-72.webp",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "AutoDub is a YouTube AI dubbing and translation extension that translates and dubs foreign-language YouTube videos.",
+    "detailed_overview": "The tool features AI dubbing and translation, bilingual subtitles, over 90 natural voices, and automatic language detection to allow users to hear videos in their own language. It supports 42 dubbing languages and is available as a web and Chrome extension.",
+    "primary_task": "AI Video Translator",
+    "categories": [
+      "AI Video Translator",
+      "AI Dubbing"
+    ],
+    "tags": [
+      "ai video translator",
+      "ai dubbing"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [],
+    "supported_platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:38.959000+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://autodub.net/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/autodub",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-socialpost",
+    "record_id": "candidate-socialpost",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:48.305095+00:00",
+    "tool_name": "SocialPost",
+    "company_developer": null,
+    "official_website": "https://socialpost.ai/",
+    "logo_url": "https://socialpost.ai/hubfs/favicon-1.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "SocialPost is an AI social media post generator designed to create LinkedIn content for B2B owners and firms by taking a website URL as input.",
+    "detailed_overview": "The tool generates LinkedIn content based on website URLs provided by the user. It operates on a freemium pricing model with a starting price of $29 per month, and includes a free plan and a free trial. Supported platforms include the web.",
+    "primary_task": "AI Social Media Post Generator",
+    "categories": [
+      "AI Social Media Post Generator",
+      "AI Copywriting"
+    ],
+    "tags": [
+      "ai social media post generator",
+      "ai copywriting"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "URL"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Freemium",
+    "starting_price": "$29/month",
+    "free_plan": true,
+    "free_trial": true,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:40.294398+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://socialpost.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/socialpost",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-wawebsender",
+    "record_id": "candidate-wawebsender",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:49.557001+00:00",
+    "tool_name": "Free WhatsApp Sender",
+    "company_developer": null,
+    "official_website": "https://wawebsender.com/",
+    "logo_url": "https://resource.wawebsender.com/icons/wawebsender-icon.webp",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Free WhatsApp Sender is a Chrome extension that allows users to import Excel or CSV contact lists to send personalized bulk messages via WhatsApp Web.",
+    "detailed_overview": "This browser-based tool functions as a WhatsApp Web sender without requiring WhatsApp Business API setup. It accepts text and spreadsheet or CSV inputs to generate and send messages. The tool operates on a freemium pricing model with available free plans and free trials, and supports web and Chrome extension platforms with an API available.",
+    "primary_task": "AI Message Generator",
+    "categories": [
+      "AI Message Generator",
+      "Excel AI"
+    ],
+    "tags": [
+      "ai message generator",
+      "excel ai"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "Spreadsheet / CSV"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
+    "integrations": [],
+    "api_availability": true,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Freemium",
+    "starting_price": null,
+    "free_plan": true,
+    "free_trial": true,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:42.193325+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://wawebsender.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/wawebsender",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-claimresolver",
+    "record_id": "candidate-claimresolver",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:50.974347+00:00",
+    "tool_name": "ClaimResolver",
+    "company_developer": null,
+    "official_website": "https://claimresolver.ai/",
+    "logo_url": "https://claimresolver.ai/favicon-16x16.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "ClaimResolver is an AI-powered small claims advisor and case preparation tool that helps users organize evidence and create demand letters.",
+    "detailed_overview": "The tool assists users with small claims advisor services, demand letter generation, and case record organization. Verified inputs include images, and supported platforms include the web with a Discord integration. It allows users to organize what happened and supporting evidence, create a demand letter, download approved PDFs, and keep case records connected to an account.",
+    "primary_task": "AI Legal Matter Management",
+    "categories": [
+      "AI Legal Matter Management",
+      "AI Legal Assistant"
+    ],
+    "tags": [
+      "ai legal matter management",
+      "ai legal assistant"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Discord"
+    ],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:44.046316+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://claimresolver.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/claimresolver",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-demandletter",
+    "record_id": "candidate-demandletter",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:52.354761+00:00",
+    "tool_name": "Demand Letter Generator",
+    "company_developer": null,
+    "official_website": "https://demandletter.ai/",
+    "logo_url": "https://cdn.demandletter.ai/demandletter/cdn/assets/favicon.svg?v=1",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "An AI-powered tool that generates free demand letters based on dispute details and relevant state-law references.",
+    "detailed_overview": "The Demand Letter Generator allows users to create and download demand letters in minutes by entering their dispute details and referencing state laws. It offers free generation and downloading, with promotional options such as free USPS Certified Mail with tracking using a valid early bird code.",
+    "primary_task": "AI Documents Generator",
+    "categories": [
+      "AI Documents Generator",
+      "AI Letter Writer"
+    ],
+    "tags": [
+      "ai documents generator",
+      "ai letter writer"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:45.768735+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://demandletter.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/demandletter",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-mybestresume",
+    "record_id": "candidate-mybestresume",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:53.655515+00:00",
+    "tool_name": "MyBestResume.ai",
+    "company_developer": null,
+    "official_website": "https://mybestresume.ai/",
+    "logo_url": "https://mybestresume.ai/favicon.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "MyBestResume.ai is an AI-powered resume builder and checker designed to help users create and edit resumes for target roles.",
+    "detailed_overview": "The tool allows users to build, edit, and practice using an iPhone or iPad app, and offers resume tools, examples, templates, AI models, and analysis features. Verified inputs, outputs, and pricing details are not publicly verified.",
+    "primary_task": "AI Resume Builder",
+    "categories": [
+      "AI Resume Builder",
+      "AI Resume Checker"
+    ],
+    "tags": [
+      "ai resume builder",
+      "ai resume checker"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:47.226716+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://mybestresume.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/mybestresume",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-ieltswritingchecker",
+    "record_id": "candidate-ieltswritingchecker",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:55.127647+00:00",
+    "tool_name": "ielts writing checker",
+    "company_developer": null,
+    "official_website": "https://ieltswritingchecker.org/",
+    "logo_url": "https://ieltswritingchecker.org/favicon.webp?v=4",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "An AI-powered tool designed to check IELTS Writing Task 1 and Task 2 essays.",
+    "detailed_overview": "The tool serves as an IELTS writing checker supporting general and academic Task 1 questions (such as letters, bar charts, line graphs, tables, pie charts, maps, processes, and mixed charts) as well as Writing Task 2 questions. It accepts image and PDF or document inputs and operates on a paid pricing model starting at $3.33 per month.",
+    "primary_task": "AI Checker Essay",
+    "categories": [
+      "AI Checker Essay",
+      "AI Writing Assistants"
+    ],
+    "tags": [
+      "ai checker essay",
+      "ai writing assistants"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$3.33/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:48.769997+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://ieltswritingchecker.org/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/ieltswritingchecker",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-kimik3-ai",
+    "record_id": "candidate-kimik3-ai",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:56.385577+00:00",
+    "tool_name": "kimik3 ai",
+    "company_developer": null,
+    "official_website": "https://kimik3.net/",
+    "logo_url": "https://kimik3.net/favicon-48x48.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "kimik3 ai is an unofficial, independent guide and free playground for the Kimi K3 model.",
+    "detailed_overview": "It provides clear tutorials, working examples, an honest pricing breakdown starting at $19/month, a prompt cheat sheet, and a free chat that runs on the real Kimi K3 model. The platform supports text and code inputs while generating code and reports.",
+    "primary_task": "AI API",
+    "categories": [
+      "AI API",
+      "Large Language Models (LLMs)"
+    ],
+    "tags": [
+      "ai api",
+      "large language models (llms)"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "Code"
+    ],
+    "outputs": [
+      "Code",
+      "Report"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$19/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:50.160776+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://kimik3.net/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/kimik3-ai",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-recapo-ai",
+    "record_id": "candidate-recapo-ai",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:58.100676+00:00",
+    "tool_name": "Recapo.ai",
+    "company_developer": null,
+    "official_website": "https://recapo.ai/?from=creati_ai",
+    "logo_url": "https://recapo.ai/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Recapo.ai is an AI-powered video editor and movie recap maker designed for creators to convert long videos into short content.",
+    "detailed_overview": "The platform accepts video and URL inputs to perform tasks such as video editing, shorts making, talking-head product promo creation, AI image generation, and video generation. Additional capabilities include smart captions, audio processing, frame editing, video narration, and AI music generation. The tool operates on the web platform, though its pricing model and free plan details are not publicly verified.",
+    "primary_task": "AI Video Editor",
+    "categories": [
+      "AI Video Editor",
+      "Long Video To Short Video AI"
+    ],
+    "tags": [
+      "ai video editor",
+      "long video to short video ai"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Video",
+      "URL"
+    ],
+    "outputs": [
+      "Generated Image",
+      "Code"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:51.312887+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://recapo.ai/?from=creati_ai",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/recapo-ai",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-image-prompts",
+    "record_id": "candidate-image-prompts",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:37:59.498122+00:00",
+    "tool_name": "Image prompts",
+    "company_developer": null,
+    "official_website": "https://imageprompts.co/image-to-prompt",
+    "logo_url": "https://imageprompts.co/logo.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Image prompts is an AI-powered tool that allows users to upload an image and generate a structured text prompt built from real AI artwork patterns.",
+    "detailed_overview": "The tool takes an image input via upload, drag-and-drop, paste, or click, and outputs a ready-to-use text prompt or a generated image. It is designed to create structured prompts based on patterns from thousands of real AI artworks without requiring a login, and supports multi-language functionality. Pricing and platform details beyond the web-based context are not publicly verified.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "AI Prompt Generator"
+    ],
+    "tags": [
+      "ai image generator",
+      "ai prompt generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:54.288935+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://imageprompts.co/image-to-prompt",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/image-prompts",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-laper",
+    "record_id": "candidate-laper",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:00.930523+00:00",
+    "tool_name": "Laper",
+    "company_developer": null,
+    "official_website": "https://laper.ai/",
+    "logo_url": "https://laper.ai/favicon.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Laper is an AI screenwriting software and script writer designed for film and television production. It serves as an AI writing tool and dialogue generator.",
+    "detailed_overview": "The tool operates on the web and supports integrations with Discord. It takes text as input and produces code as output. Information regarding its pricing model, starting price, free plan, and free trial is not publicly verified.",
+    "primary_task": "AI Writing",
+    "categories": [
+      "AI Writing",
+      "AI Dialogue Generator"
+    ],
+    "tags": [
+      "ai writing",
+      "ai dialogue generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text"
+    ],
+    "outputs": [
+      "Code"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Discord"
+    ],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:56.225256+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://laper.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/laper",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-ats-checker",
+    "record_id": "candidate-ats-checker",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'ATS Checker' on domain 'atschecker.ai' (title: 'free ats resume checker — score & optimize instantly', mentions: 1)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:21.336239+00:00",
+    "tool_name": "ATS Checker",
+    "company_developer": null,
+    "official_website": "https://atschecker.ai/",
+    "logo_url": "https://atschecker.ai/favicon.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Check if your resume passes applicant tracking systems. Free ATS score, missing keywords, and formatting fixes against any job posting — results in 60 seconds.",
+    "detailed_overview": "Free ATS Resume Checker — Score & Optimize Instantly ATSChecker .ai ATSChecker .ai Tools Guides By Role Blog Pricing Sign in Get started 78 Free ATS resume checker Will your resume pass the ATS? Upload your resume, paste the job posting, and get your score with missing keywords and fixes. Under a minute, free to start. ATS checker → Guides → Blog → Free to start / Results in 60 seconds / Parsed in your browser 01 Upload resume Drop your resume here PDF DOCX Click or drag to upload PDF or DOCX, m",
+    "primary_task": "AI Resume Builder",
+    "categories": [
+      "AI Resume Builder",
+      "AI Checker"
+    ],
+    "tags": [
+      "ai resume builder",
+      "ai checker"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:57.375545+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://atschecker.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/ats-checker",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "All LLM providers failed or were unconfigured."
+    ]
+  },
+  {
+    "candidate_id": "candidate-ai-summarizer-fast-online-text-summarization-tool",
+    "record_id": "candidate-ai-summarizer-fast-online-text-summarization-tool",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:44.272812+00:00",
+    "tool_name": "AI Summarizer: Fast Online Text Summarization Tool",
+    "company_developer": "AISummarizer. Made with AI",
+    "official_website": "https://aisummarizer.ai/",
+    "logo_url": "https://aisummarizer.ai/images/logo-small.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "AI Summarizer is an online text summarization tool designed to generate summaries from various content types.",
+    "detailed_overview": "This tool performs AI article and PDF summarization, accepting inputs such as images, text, and PDF or document formats to produce summary outputs. The verified pricing model and starting price are not publicly verified, and supported platforms include the Web.",
+    "primary_task": "AI Article Summarizer",
+    "categories": [
+      "AI Article Summarizer",
+      "AI PDF Summarizer"
+    ],
+    "tags": [
+      "ai article summarizer",
+      "ai pdf summarizer"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "PDF / Document"
+    ],
+    "outputs": [
+      "Summary"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:35:58.467675+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://aisummarizer.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/ai-summarizer-fast-online-text-summarization-tool",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-fanfic-generator",
+    "record_id": "candidate-fanfic-generator",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:45.583576+00:00",
+    "tool_name": "Fanfic Generator",
+    "company_developer": "AI Fanfic GeneratorImagineGoLetter Generator AI",
+    "official_website": "https://fanficgenerator.com/",
+    "logo_url": "https://fanficgenerator.com/images/logo/favicon-16x16.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "An AI fanfic generator designed to help users write engaging fanfiction stories paragraph by paragraph.",
+    "detailed_overview": "The tool allows users to set up a novel's basic information, including book title and genre, and create fan fiction stories to bring favorite characters and worlds to life. It includes features such as a character graph and a long-form writing boost. Verified inputs include text.",
+    "primary_task": "AI Fanfic Generator",
+    "categories": [
+      "AI Fanfic Generator",
+      "AI Book Writing"
+    ],
+    "tags": [
+      "ai fanfic generator",
+      "ai book writing"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$9/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:01.143833+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://fanficgenerator.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/fanfic-generator",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-isummarizer",
+    "record_id": "candidate-isummarizer",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:46.926177+00:00",
+    "tool_name": "iSummarizer",
+    "company_developer": null,
+    "official_website": "https://isummarizer.com/",
+    "logo_url": "https://isummarizer.com/sumicon.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "iSummarizer is an AI-powered tool designed to summarize books, text, images, and documents.",
+    "detailed_overview": "The tool accepts inputs including images, text, and PDF documents to generate summaries. Additional features mentioned in the context include a word summarizer, PDF summarizer, PPT summarizer, article summarizer, paraphrasing tool, grammar checker, image to text converter, AI translator, and AI answer generator. Pricing information and specific platform details are not publicly verified.",
+    "primary_task": "AI Book Summarizer",
+    "categories": [
+      "AI Book Summarizer",
+      "AI Summarizer"
+    ],
+    "tags": [
+      "ai book summarizer",
+      "ai summarizer"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "PDF / Document"
+    ],
+    "outputs": [
+      "Summary"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:02.144163+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://isummarizer.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/isummarizer",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-ai-resumma",
+    "record_id": "candidate-ai-resumma",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:48.269781+00:00",
+    "tool_name": "AI Resumma",
+    "company_developer": null,
+    "official_website": "https://resumma.com/",
+    "logo_url": "https://resumma.com/resumma.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "AI Resumma is an AI-powered tool designed for text summarization and translation, helping users turn bulky documents into concise summaries.",
+    "detailed_overview": "The tool processes inputs such as text, PDFs, and documents to generate summaries, translated text and images across more than 20 languages, and generated images. It also provides various writing and analysis utilities including a grammar checker, text rewriter, image-to-text converter, and AI detector. Pricing details are not publicly verified.",
+    "primary_task": "AI Book Summarizer",
+    "categories": [
+      "AI Book Summarizer",
+      "AI Summarizer"
+    ],
+    "tags": [
+      "ai book summarizer",
+      "ai summarizer"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "PDF / Document"
+    ],
+    "outputs": [
+      "Generated Image",
+      "Summary"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:03.148763+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://resumma.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/ai-resumma",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-seevid",
+    "record_id": "candidate-seevid",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'SeeVid' on domain 'seeddance.ai' (title: 'seevid | ai video generator | create cinematic videos from t', mentions: 39)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:49.816324+00:00",
+    "tool_name": "SeeVid",
+    "company_developer": null,
+    "official_website": "https://seeddance.ai/",
+    "logo_url": "https://seeddance.ai/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "SeeVid is an AI video generator that allows users to create cinematic videos from text and images.",
+    "detailed_overview": "SeeVid accepts text, image, and video inputs to generate AI images and videos through a web-based platform. It leverages multiple leading AI models to help creators produce visual content. Pricing details and free tiers are not publicly verified.",
+    "primary_task": "AI Video Generator",
+    "categories": [
+      "AI Video Generator",
+      "Text to Video"
+    ],
+    "tags": [
+      "ai video generator",
+      "text to video"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "Video"
+    ],
+    "outputs": [
+      "Generated Image",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:06.774398+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://seeddance.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/seevid",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-image25",
+    "record_id": "candidate-image25",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:51.249413+00:00",
+    "tool_name": "Image 2.5",
+    "company_developer": null,
+    "official_website": "https://image25.io/",
+    "logo_url": "https://image25.io/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Image 2.5 is an AI image generator and editor that turns text, images, or rough sketches into polished visuals.",
+    "detailed_overview": "The tool allows users to generate new artwork, make precise edits, preserve important details, and iterate on ideas. It accepts text prompts and images as inputs and outputs generated images and text prompts. It operates as a web-based platform.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Image to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "image to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:09.216195+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://image25.io/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/image25",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-gptimg25",
+    "record_id": "candidate-gptimg25",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'GPT Image 2.5 AI' on domain 'gptimg25.com' (title: 'gpt image 2.5 ai image generator | flare & sunburst', mentions: 0)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:52.480186+00:00",
+    "tool_name": "GPT Image 2.5 AI",
+    "company_developer": null,
+    "official_website": "https://gptimg25.com/",
+    "logo_url": "https://gptimg25.com/icon.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "GPT Image 2.5 AI is an AI image generator that creates images from text and image inputs.",
+    "detailed_overview": "This AI tool functions as an image generator supporting web platforms with a paid pricing model starting at $7.99/month. Verified inputs include images and text, while verified outputs consist of generated images. The service offers multiple capabilities and models such as Flare and Sunburst.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Text to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "text to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text"
+    ],
+    "outputs": [
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$7.99/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:11.765745+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://gptimg25.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/gptimg25",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-gptimage2-5",
+    "record_id": "candidate-gptimage2-5",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:54.015781+00:00",
+    "tool_name": "GPT Image 2.5 – AI Image Generator & Photo Editor",
+    "company_developer": null,
+    "official_website": "https://gptimage2-5.net/",
+    "logo_url": "https://gptimage2-5.net/icon.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "GPT Image 2.5 is an AI image generator and photo editor that allows users to create images from text descriptions or edit uploaded photos.",
+    "detailed_overview": "This tool accepts inputs including images and PDF or document files, and produces text prompts and generated images as outputs. Users can describe the image they want to create or upload a photo to use the editor.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Text to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "text to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "PDF / Document"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:12.739457+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://gptimage2-5.net/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/gptimage2-5",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-nano-banana-2-ai",
+    "record_id": "candidate-nano-banana-2-ai",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:55.332178+00:00",
+    "tool_name": "Nano Banana 2 AI",
+    "company_developer": null,
+    "official_website": "https://nanobanana-2.com/",
+    "logo_url": "https://nanobanana-2.com/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Nano Banana 2 AI is an AI image generator and editor powered by Google Gemini 3.1 Flash with real-time search grounding.",
+    "detailed_overview": "The tool accepts image and text inputs to generate and output images, supporting text-to-image generation, AI editing, background removal, and virtual try-on. It features 4K image generation, 14 aspect ratios, and character consistency. Verified pricing includes a paid model starting at $174 per month.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Text to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "text to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text"
+    ],
+    "outputs": [
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Discord"
+    ],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$174/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:14.920164+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://nanobanana-2.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/nano-banana-2-ai",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-gptimage-2-5",
+    "record_id": "candidate-gptimage-2-5",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:56.797580+00:00",
+    "tool_name": "GPT Image 2.5 AI Video Generator",
+    "company_developer": null,
+    "official_website": "https://gptimage-2-5.com/",
+    "logo_url": "https://gptimage-2-5.com/apple-touch-icon.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "GPT Image 2.5 is an AI image generator that creates polished images from text or transforms reference photos with sharper detail and natural lighting.",
+    "detailed_overview": "The tool accepts text inputs to generate images and allows precise edits that change only what is requested. It provides generation up to 50% faster with enhanced detail, natural lighting, and texture. The verified pricing model is paid, with a starting price of $20 per month.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Text to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "text to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text"
+    ],
+    "outputs": [
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$20/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:16.853032+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://gptimage-2-5.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/gptimage-2-5",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-aireel",
+    "record_id": "candidate-aireel",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:58.197947+00:00",
+    "tool_name": "AIReel",
+    "company_developer": null,
+    "official_website": "https://aireel.net/",
+    "logo_url": "https://www.aireel.net/logo_512.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "AIReel is an AI-powered video and image generator that allows users to create visual content from uploaded images or text inputs without requiring prior experience.",
+    "detailed_overview": "AIReel functions as a one-stop AI video and image generator accessible via the web, accepting image, text, and video inputs to produce text prompts, generated images, and videos. The platform supports various AI models and tools for video and image generation. Pricing details, free plans, trials, APIs, and open-source status are not publicly verified in the source text.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Image to Video"
+    ],
+    "tags": [
+      "ai image generator",
+      "image to video"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "Video"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:19.184653+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://aireel.net/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/aireel",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-ai-image",
+    "record_id": "candidate-ai-image",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:38:59.636171+00:00",
+    "tool_name": "AI Image",
+    "company_developer": null,
+    "official_website": "https://aiimage.com/",
+    "logo_url": "https://aiimage.com/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "AI Image is an AI-powered image generator that allows users to generate, edit, and restyle photos and images from text and image inputs within a single workspace.",
+    "detailed_overview": "The tool operates as a text-to-image and image editing platform supporting multiple top models such as Nano Banana, GPT Image 2, Midjourney, and Flux. It accepts image and text inputs to produce text prompts and generated images as outputs. The platform is accessible via the web and a Chrome extension, with plans and pricing details managed through annual or monthly billing.",
+    "primary_task": "AI Image Generator",
+    "categories": [
+      "AI Image Generator",
+      "Text to Image"
+    ],
+    "tags": [
+      "ai image generator",
+      "text to image"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:21.943550+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://aiimage.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/ai-image",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-alav",
+    "record_id": "candidate-alav",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:01.064495+00:00",
+    "tool_name": "Alav AI",
+    "company_developer": null,
+    "official_website": "https://alav.ai/",
+    "logo_url": "https://alav.ai/icon.svg?icon.f27ca2e7.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Alav AI is an AI video generator that consolidates multiple AI video models into a single workspace for text-to-video and image-to-video tasks.",
+    "detailed_overview": "The tool allows users to describe ideas in plain language to generate cinematic videos with coherent scenes, stable characters, and smooth motion. It supports text and image inputs to produce generated images and videos through a web platform, offering capabilities to fine-tune style, aspect ratio, and duration.",
+    "primary_task": "AI Video Generator",
+    "categories": [
+      "AI Video Generator",
+      "Text to Video"
+    ],
+    "tags": [
+      "ai video generator",
+      "text to video"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [
+      "Generated Image",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:24.942206+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://alav.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/alav",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-lazykiwi",
+    "record_id": "candidate-lazykiwi",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:02.448877+00:00",
+    "tool_name": "Lazykiwi AI",
+    "company_developer": null,
+    "official_website": "https://lazykiwi.ai/",
+    "logo_url": "https://lazykiwi.ai/kiwi-logo.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Lazykiwi AI is a short clips and music video generator that creates vertical videos from images, text, and video inputs using ready-made templates.",
+    "detailed_overview": "Users can upload a still image and select a trending effect or use over 300 image-to-video and text-to-video templates running online in a web browser. The tool produces a vertical clip ready to post in about a minute. It offers features such as animating photos, picking templates, and utilizing a motion agent to build video effects.",
+    "primary_task": "AI Short Clips Generator",
+    "categories": [
+      "AI Short Clips Generator",
+      "AI Music Video Generator"
+    ],
+    "tags": [
+      "ai short clips generator",
+      "ai music video generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "Video"
+    ],
+    "outputs": [
+      "Generated Image",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:26.164934+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://lazykiwi.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/lazykiwi",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-videoswapface",
+    "record_id": "candidate-videoswapface",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:03.839270+00:00",
+    "tool_name": "Video Face Swap AI",
+    "company_developer": null,
+    "official_website": "https://videoswapface.com/",
+    "logo_url": null,
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Video Face Swap AI is an online tool that creates AI face swap videos from uploaded video and face photo inputs.",
+    "detailed_overview": "The tool allows users to upload a video and a face photo, trim clips, and swap single or multiple faces. It accepts images and videos as inputs and outputs video content. The pricing model is not publicly verified.",
+    "primary_task": "AI Face Swap Video",
+    "categories": [
+      "AI Face Swap Video",
+      "AI Face Swap Generator"
+    ],
+    "tags": [
+      "ai face swap video",
+      "ai face swap generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Video"
+    ],
+    "outputs": [
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:27.458107+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://videoswapface.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/videoswapface",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-apixo",
+    "record_id": "candidate-apixo",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:05.161892+00:00",
+    "tool_name": "APIXO",
+    "company_developer": null,
+    "official_website": "https://apixo.ai/",
+    "logo_url": "https://file.apixo.ai/resource/site/brand/favicon-16x16.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "APIXO is an AI music and video generator that provides a workspace and API to create visuals, motion, audio, and text.",
+    "detailed_overview": "APIXO accepts text inputs to generate outputs including text prompts, generated images, audio, and video. It operates on a paid pricing model and offers a developer API along with a creative suite for generating content using various AI models.",
+    "primary_task": "AI Music Generator",
+    "categories": [
+      "AI Music Generator",
+      "AI Video Generator"
+    ],
+    "tags": [
+      "ai music generator",
+      "ai video generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image",
+      "Audio",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": true,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:29.754781+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://apixo.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/apixo",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-furriq",
+    "record_id": "candidate-furriq",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:06.349700+00:00",
+    "tool_name": "Furriq",
+    "company_developer": null,
+    "official_website": "https://furriq.com/",
+    "logo_url": "https://furriq.com/favicon.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Upload a photo and our AI compares 40+ visual markers (coat, color, face shape, body structure) for honest breed clues, not DNA proof. No sign-up.",
+    "detailed_overview": "Cat Breed Identifier — AI Tool by Photo | FURRIQ FURRIQ Know your cat, love your cat Eye Shape Ear Size Muzzle Coat Pattern Body Structure Skip Intro Furriq Tools Breeds Blog Compare Pricing Toggle theme Sign In Get Started Guest trial ready Photos are not stored by default Choose or take one cat photo Upload up to 6 photos for more confident analysis. JPG, PNG, or WEBP. Only cat photos are recognized — non-cat images will return meaningless results No cat photo handy? Try a sample: Siamese Brit",
+    "primary_task": "AI Image Recognition",
+    "categories": [
+      "AI Image Recognition",
+      "AI Image Scanning"
+    ],
+    "tags": [
+      "ai image recognition",
+      "ai image scanning"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": true,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:31.904904+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://furriq.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/furriq",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "All LLM providers failed or were unconfigured."
+    ]
+  },
+  {
+    "candidate_id": "candidate-tenorshare-ai-math",
+    "record_id": "candidate-tenorshare-ai-math",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'Tenorshare AI Math' on domain 'ai.tenorshare.com' (title: 'free ai math solver online | tenorshare ai math', mentions: 4)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:22.036966+00:00",
+    "tool_name": "Tenorshare AI Math",
+    "company_developer": null,
+    "official_website": "https://ai.tenorshare.com/products/ai-math-solver",
+    "logo_url": "https://ai.tenorshare.com/logo/logo.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Free to try AI Math Solver from Tenorshare AI - solve math problems with step-by-step explanations, video lessons, and personalized practice.",
+    "detailed_overview": "Free AI Math Solver Online | Tenorshare AI Math Tenorshare AI Math Free AI Math Solver Online Solve any math problem from text, image, or document. Get clear step-by-step answers, watch video explanations, and practice until you truly understand. 98% Recognition Accuracy 1s Average Solve Time 24/7 Math Help Anytime 100+ Math Topics Math Homework Helper Workflow Finish math homework faster with Tenorshare AI math solver that provides step-by-step guidance, visual explanations, and personalized pr",
+    "primary_task": "AI Math",
+    "categories": [
+      "AI Math",
+      "AI Homework Helper"
+    ],
+    "tags": [
+      "ai math",
+      "ai homework helper"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:34.280239+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://ai.tenorshare.com/products/ai-math-solver",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/tenorshare-ai-math",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "All LLM providers failed or were unconfigured."
+    ]
+  },
+  {
+    "candidate_id": "candidate-aiimagetranslator",
+    "record_id": "candidate-aiimagetranslator",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'Premium AI Image Translation Service' on domain 'aiimagetranslator.org' (title: 'the powerful ultimate ai image translator online', mentions: 0)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:31.978403+00:00",
+    "tool_name": "Premium AI Image Translation Service",
+    "company_developer": null,
+    "official_website": "https://aiimagetranslator.org/",
+    "logo_url": "https://aiimagetranslator.org/logo/logo.webp",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "Premium AI Image Translation Service is an online AI image translator and OCR tool designed to translate visual content. It enables users to build translation workflows for screenshots, comics, product images, and everyday visuals.",
+    "detailed_overview": "The web-based platform supports both single and bulk translation for image formats such as PNG, JPG, JPEG, WebP, BMP, and GIF, as well as PDF documents. It offers features including image-to-text extraction, manga translation, and menu translation utilizing models like GPT-2-Image. The service operates under a paid pricing model with a starting price of $9.99/month.",
+    "primary_task": "AI Image Translator",
+    "categories": [
+      "AI Image Translator",
+      "AI OCR"
+    ],
+    "tags": [
+      "ai image translator",
+      "ai ocr"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$9.99/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:36.528030+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://aiimagetranslator.org/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/aiimagetranslator",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-whereisthis",
+    "record_id": "candidate-whereisthis",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:43.259913+00:00",
+    "tool_name": "Where Is This Place",
+    "company_developer": null,
+    "official_website": "https://whereisthis.place/",
+    "logo_url": "https://whereisthis.place/favicon.ico?favicon.2vob68tjqpejf.ico?dpl=dpl_F9svLu7a9cjGfJqEb1hivAp1xDzq",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Where Is This Place is an AI image scanning and recognition tool designed to help users find where a photo was taken through AI geolocation and EXIF GPS analysis.",
+    "detailed_overview": "The tool processes images in memory and discards them without storing user photos, supporting visual GEOINT, OSINT, and location intelligence tasks. It provides features related to photo location and EXIF GPS data analysis on the web platform. Pricing details and specific inputs or outputs are not publicly verified in the source text.",
+    "primary_task": "AI Image Scanning",
+    "categories": [
+      "AI Image Scanning",
+      "AI Image Recognition"
+    ],
+    "tags": [
+      "ai image scanning",
+      "ai image recognition"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:37.882627+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://whereisthis.place/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/whereisthis",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-face-search",
+    "record_id": "candidate-face-search",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:45.257425+00:00",
+    "tool_name": "Face Search",
+    "company_developer": null,
+    "official_website": "https://facesearch.id/",
+    "logo_url": "https://facesearch.id/favicon-16x16.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Face Search is an AI face recognition tool that performs reverse face searches to find where a person appears across the web using an uploaded photo.",
+    "detailed_overview": "Users can upload a face photo in JPG, PNG, or WEBP format to scan public sources for matches. The tool provides instant previews and requires no account to start. It operates as a paid service starting at $30 per month and is accessible via the web.",
+    "primary_task": "AI Face Recognition",
+    "categories": [
+      "AI Face Recognition",
+      "AI Image Recognition"
+    ],
+    "tags": [
+      "ai face recognition",
+      "ai image recognition"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$30/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:39.430100+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://facesearch.id/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/face-search",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-vidbg-remover",
+    "record_id": "candidate-vidbg-remover",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:46.559439+00:00",
+    "tool_name": "VidBG Remover",
+    "company_developer": null,
+    "official_website": "https://vidbgremover.com/",
+    "logo_url": "https://vidbgremover.com/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "VidBG Remover is an AI-powered video background removal tool that allows users to upload videos and obtain clean transparent backgrounds without requiring a green screen.",
+    "detailed_overview": "The tool processes video inputs to generate videos with removed backgrounds. It offers different processing modes such as a speed-priority basic option costing 2 credits per second and a high-quality option costing 3 credits per second for refined edge details.",
+    "primary_task": "AI Background Remover",
+    "categories": [
+      "AI Background Remover",
+      "AI Image Segmentation"
+    ],
+    "tags": [
+      "ai background remover",
+      "ai image segmentation"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Video"
+    ],
+    "outputs": [
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web",
+      "Windows"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:42.215530+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://vidbgremover.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/vidbg-remover",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-ai-image-detector",
+    "record_id": "candidate-ai-image-detector",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:47.878675+00:00",
+    "tool_name": "AI Image Detector",
+    "company_developer": null,
+    "official_website": "https://aiimagedetector.info/",
+    "logo_url": "https://aiimagedetector.info/icon.svg?icon.0kh7pwhxsj_rc.svg?dpl=dpl_BgmuCwBF5Swtd79yU8MRzndT84gh",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "AI Image Detector screens uploaded images using four independent AI-detection models cross-checked by a published weighted-vote rule to determine if a picture is AI-generated.",
+    "detailed_overview": "The tool accepts images as input and provides graded conclusions with evidence laid out rather than a made-up percentage. It operates on the web with a freemium pricing model starting at $19 per month and includes a free plan. It utilizes multi-signal forensic screening to cross-check detection signals.",
+    "primary_task": "AI OCR",
+    "categories": [
+      "AI OCR",
+      "AI Image Recognition"
+    ],
+    "tags": [
+      "ai ocr",
+      "ai image recognition"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Freemium",
+    "starting_price": "$19/month",
+    "free_plan": true,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:43.301496+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://aiimagedetector.info/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/ai-image-detector",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-mixtranslate",
+    "record_id": "candidate-mixtranslate",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:49.204280+00:00",
+    "tool_name": "MixTranslate",
+    "company_developer": null,
+    "official_website": "https://mixtranslate.com/",
+    "logo_url": "https://mixtranslate.com/favicon-200x200.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "MixTranslate is an all-in-one AI translator powered by over 20 AI models that automatically selects the best translation for your tone and context.",
+    "detailed_overview": "MixTranslate handles various input formats including text, images, documents, speech, websites, and spreadsheets. Users can access translations across multiple AI models within a unified workspace to avoid using separate translation applications.",
+    "primary_task": "AI Translate",
+    "categories": [
+      "AI Translate",
+      "AI Image Translator"
+    ],
+    "tags": [
+      "ai translate",
+      "ai image translator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "Audio",
+      "Video",
+      "URL",
+      "Spreadsheet / CSV"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:45.615031+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://mixtranslate.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/mixtranslate",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-menuforma",
+    "record_id": "candidate-menuforma",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:50.506007+00:00",
+    "tool_name": "MenuForma",
+    "company_developer": null,
+    "official_website": "https://menuforma.com/",
+    "logo_url": "https://menuforma.com/logo-192.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "MenuForma is an AI-powered QR code and digital menu generator that turns menus into online ordering systems from PDFs, photos, or website links.",
+    "detailed_overview": "The tool processes image and PDF document inputs to create digital menus, pickup and delivery ordering systems, and QR menus. It offers a freemium model with a free forever plan and supports features such as online ordering, EU allergen support, and Google Review collection.",
+    "primary_task": "AI QR Code Generator",
+    "categories": [
+      "AI QR Code Generator",
+      "AI OCR"
+    ],
+    "tags": [
+      "ai qr code generator",
+      "ai ocr"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Android"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Freemium",
+    "starting_price": null,
+    "free_plan": true,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:46.684599+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://menuforma.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/menuforma",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-face-lookup",
+    "record_id": "candidate-face-lookup",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:51.943121+00:00",
+    "tool_name": "Face Lookup",
+    "company_developer": null,
+    "official_website": "https://facelookup.pro/",
+    "logo_url": "https://facelookup.pro/favicon-16x16.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Face Lookup is an AI scanner and image recognition tool designed to find where a face appears online using a photo.",
+    "detailed_overview": "The tool accepts an image input to perform a reverse face search, allowing users to check dating safety, identify catfish, detect photo theft, and spot reused profile photos across the web. It supports web platforms with integrations for GitHub and Discord, and operates under a paid pricing model starting at $30 per month.",
+    "primary_task": "AI Scanner",
+    "categories": [
+      "AI Scanner",
+      "AI Image Recognition"
+    ],
+    "tags": [
+      "ai scanner",
+      "ai image recognition"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "Discord"
+    ],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$30/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:49.069862+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://facelookup.pro/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/face-lookup",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-img2excel",
+    "record_id": "candidate-img2excel",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:53.277405+00:00",
+    "tool_name": "IMG2Excel",
+    "company_developer": null,
+    "official_website": "https://img2excel.net/",
+    "logo_url": "https://img2excel.net/favicon-32x32.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "IMG2Excel is an AI-powered document extraction tool that converts images into spreadsheets and CSV files.",
+    "detailed_overview": "The tool accepts images as input and generates output related to spreadsheet and Excel conversion. It provides a web and Android platform experience, offering credit packs with limited-time sales. Specific pricing details and API availability are not publicly verified.",
+    "primary_task": "AI Document Extraction",
+    "categories": [
+      "AI Document Extraction",
+      "AI OCR"
+    ],
+    "tags": [
+      "ai document extraction",
+      "ai ocr"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Spreadsheet / CSV"
+    ],
+    "outputs": [
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web",
+      "Android"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": true,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:52.062696+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://img2excel.net/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/img2excel",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-handocr",
+    "record_id": "candidate-handocr",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:54.559473+00:00",
+    "tool_name": "HandOCR",
+    "company_developer": null,
+    "official_website": "https://handocr.com/",
+    "logo_url": "https://handocr.com/common/favicon_io/favicon-32x32.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "HandOCR is an AI-powered optical character recognition tool that converts images and PDFs into editable text.",
+    "detailed_overview": "The tool allows users to drag and drop or paste images (such as JPG, PNG, WEBP) and PDF documents to extract text instantly. It supports processing up to 10 images or PDF files at once, handling documents like receipts, notes, books, and screenshots. The pricing model, API availability, and open-source status are not publicly verified.",
+    "primary_task": "AI OCR",
+    "categories": [
+      "AI OCR",
+      "AI PDF"
+    ],
+    "tags": [
+      "ai ocr",
+      "ai pdf"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "PDF / Document"
+    ],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:53.235453+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://handocr.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/handocr",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-describe-image",
+    "record_id": "candidate-describe-image",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:55.919811+00:00",
+    "tool_name": "Describe Image",
+    "company_developer": null,
+    "official_website": "https://describeimage.io/",
+    "logo_url": "https://describeimage.io/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Describe Image is an AI-powered tool designed for image and video understanding, generating alt text, OCR, and SEO descriptions.",
+    "detailed_overview": "Users can upload an image to generate a detailed AI description, which can then be reviewed and copied into content, product pages, or accessibility workflows. The tool supports inputs such as images, text, PDFs or documents, and URLs, and produces outputs including text prompts, generated images, summaries, and video. It is available on Windows, integrates with Shopify, and operates on a paid pricing model starting at $95.99 per month.",
+    "primary_task": "AI Describe Image",
+    "categories": [
+      "AI Describe Image",
+      "AI Image Description Generator"
+    ],
+    "tags": [
+      "ai describe image",
+      "ai image description generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text",
+      "PDF / Document",
+      "URL"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Generated Image",
+      "Summary",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "integrations": [
+      "Shopify"
+    ],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$95.99/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:36:54.937433+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://describeimage.io/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/describe-image",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-facesearch",
+    "record_id": "candidate-facesearch",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:57.293066+00:00",
+    "tool_name": "Facesearch",
+    "company_developer": null,
+    "official_website": "https://facesearch.net/",
+    "logo_url": "https://facesearch.net/favicon.ico?favicon.14c4b7c2.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Facesearch is an AI face recognition tool designed to find individuals in photos and across various social media platforms.",
+    "detailed_overview": "The tool accepts images as input and generates a report as output to help users locate people by photo. It supports web platforms and provides a REST API, MCP Server, and Agent Skill for developers. The pricing model is listed as paid with a starting price of $0 per month.",
+    "primary_task": "AI Face Recognition",
+    "categories": [
+      "AI Face Recognition",
+      "AI Image Scanning"
+    ],
+    "tags": [
+      "ai face recognition",
+      "ai image scanning"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [
+      "Report"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": true,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$0/month",
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:04.444594+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://facesearch.net/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/facesearch",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-ai-hairstyle-analysis",
+    "record_id": "candidate-ai-hairstyle-analysis",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:39:58.719908+00:00",
+    "tool_name": "AI Hairstyle Analysis",
+    "company_developer": "Hairstyle Analysis AI",
+    "official_website": "https://hairstyleanalysis.org/",
+    "logo_url": "https://hairstyleanalysis.org/favicon-32x32.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "AI Hairstyle Analysis is an AI-powered tool designed for hairstyle analysis and transformation, utilizing images as input.",
+    "detailed_overview": "The tool accepts an image as input and outputs a text prompt based on the analysis. It offers features such as hair transform, AI hairstyle changing, and hairstyle identification. The pricing model is paid with a free trial available, and it is accessible via the web platform.",
+    "primary_task": "AI Hairstyle",
+    "categories": [
+      "AI Hairstyle",
+      "AI Hair Color Changer"
+    ],
+    "tags": [
+      "ai hairstyle",
+      "ai hair color changer"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image"
+    ],
+    "outputs": [
+      "Text Prompt"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": true,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:07.169516+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://hairstyleanalysis.org/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/ai-hairstyle-analysis",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-gpt-image-prompt",
+    "record_id": "candidate-gpt-image-prompt",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:00.191472+00:00",
+    "tool_name": "GPT Image Prompt",
+    "company_developer": null,
+    "official_website": "https://gptimagesprompt.com/",
+    "logo_url": "https://gptimagesprompt.com/imgs/marketing/section-images/home-hero-bg.webp",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "GPT Image Prompt is a web-based prompt generator and testing workspace that helps users write effective prompts for AI image generation.",
+    "detailed_overview": "The platform provides templates and a testing workspace to help users write sharper prompts for product shots, ads, portraits, and social visuals. It accepts text inputs to generate corresponding image prompts and strictly prohibits adult or NSFW content. The pricing model, API availability, open-source status, and specific technical integrations are not publicly verified in the source text.",
+    "primary_task": "Image to Prompt",
+    "categories": [
+      "Image to Prompt",
+      "AI Prompt Generator"
+    ],
+    "tags": [
+      "image to prompt",
+      "ai prompt generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text"
+    ],
+    "outputs": [
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:09.158385+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://gptimagesprompt.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/gpt-image-prompt",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-free-ai-math-solver",
+    "record_id": "candidate-free-ai-math-solver",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'Free AI Math Solver' on domain 'arting.ai' (title: 'free youtube transcript generator online - arting ai', mentions: 0)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:01.935912+00:00",
+    "tool_name": "Free AI Math Solver",
+    "company_developer": "Arting AI",
+    "official_website": "https://arting.ai/youtube-transcript-generator",
+    "logo_url": null,
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Free AI Math Solver is an AI homework helper and math tool designed to assist with mathematical problems.",
+    "detailed_overview": "The tool supports inputs such as text and URLs, and produces outputs including summaries, transcripts, and videos. It operates under a freemium pricing model with a verified free plan and is accessible via the web and a Chrome extension.",
+    "primary_task": "AI Math",
+    "categories": [
+      "AI Math",
+      "AI Homework Helper",
+      "AI Transcriber",
+      "AI Transcription"
+    ],
+    "tags": [
+      "ai math",
+      "ai homework helper",
+      "ai transcriber",
+      "ai transcription"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "URL"
+    ],
+    "outputs": [
+      "Summary",
+      "Transcript",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Freemium",
+    "starting_price": null,
+    "free_plan": true,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:11.406763+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://arting.ai/youtube-transcript-generator",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/free-ai-math-solver",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-imagetoexcel",
+    "record_id": "candidate-imagetoexcel",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:03.227906+00:00",
+    "tool_name": "ImageToExcel",
+    "company_developer": null,
+    "official_website": "https://imagetoexcel.app/",
+    "logo_url": "https://imagetoexcel.app/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "ImageToExcel is an AI-powered tool that converts table images, screenshots, scans, and documents into editable Excel spreadsheets.",
+    "detailed_overview": "The tool accepts images, PDFs, and documents as inputs to perform AI image scanning and text extraction. It features capabilities such as converting handwritten notes, photos, and screenshots of tables into editable spreadsheets, as well as performing OCR to extract text from images. Outputs include generated images and converted files. The platform is accessible via Web and Windows.",
+    "primary_task": "AI Image Scanning",
+    "categories": [
+      "AI Image Scanning",
+      "Excel AI"
+    ],
+    "tags": [
+      "ai image scanning",
+      "excel ai"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "PDF / Document"
+    ],
+    "outputs": [
+      "Generated Image"
+    ],
+    "supported_platforms": [
+      "Web",
+      "Windows"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:13.038982+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://imagetoexcel.app/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/imagetoexcel",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-sunov6",
+    "record_id": "candidate-sunov6",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:04.669221+00:00",
+    "tool_name": "Suno V6",
+    "company_developer": null,
+    "official_website": "https://sunov6.app/",
+    "logo_url": "https://sunov6.app/favicon.ico",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Suno V6 is an AI music generator that creates original songs online with vocals, lyrics, and instrumentals from text prompts.",
+    "detailed_overview": "Users can generate songs in their web browser within minutes by typing any idea they have. The platform offers a free trial and a starting price of $10 per month, supporting text prompts as inputs and video outputs.",
+    "primary_task": "AI Song Generator",
+    "categories": [
+      "AI Song Generator",
+      "AI Text-to-Music"
+    ],
+    "tags": [
+      "ai song generator",
+      "ai text-to-music"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [
+      "Text Prompt",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": "$10/month",
+    "free_plan": null,
+    "free_trial": true,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:14.539535+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://sunov6.app/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/sunov6",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-suno-api-ai",
+    "record_id": "candidate-suno-api-ai",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'Suno API AI' on domain 'ttapi.io' (title: 'suno music api api by suno - ttapi', mentions: 0)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:05.905157+00:00",
+    "tool_name": "Suno API AI",
+    "company_developer": null,
+    "official_website": "https://ttapi.io/models/suno-music",
+    "logo_url": "https://ttapi.io/brand/ttapi.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Suno API AI is a web-based tool designed for AI text-to-music generation with API access. It allows users to input text and audio to generate music and related media.",
+    "detailed_overview": "Suno API AI performs AI text-to-music and music generation tasks on the Web platform. The tool supports text and audio inputs, producing text prompt, audio, and video outputs with API availability. Its pricing model, starting price, free plan, and free trial are not publicly verified.",
+    "primary_task": "AI Text-to-Music",
+    "categories": [
+      "AI Text-to-Music",
+      "AI Music Generator"
+    ],
+    "tags": [
+      "ai text-to-music",
+      "ai music generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "Audio"
+    ],
+    "outputs": [
+      "Text Prompt",
+      "Audio",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": true,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:16.053042+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://ttapi.io/models/suno-music",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/suno-api-ai",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-soundboost",
+    "record_id": "candidate-soundboost",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:13.235641+00:00",
+    "tool_name": "SoundBoost",
+    "company_developer": null,
+    "official_website": "https://soundboost.com/",
+    "logo_url": "https://soundboost.com/favicon-96x96.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": "Active",
+    "short_description": "AI mastering - professional online mastering. Guide your music mastering session with words and hear the magic. AI-powered audio mastering with text prompts, references, and loudness control. Includes free vocal remover & stem splitter online. Try free!",
+    "detailed_overview": "AI Mastering | Professional Online Mastering | SoundBoost.ai Skip to main content 🎬 New: Music Video Generator. Turn your song into a music video. Make a music video → Products Pricing Free Tools Resources One subscription across web, iPhone, iPad, and Android. Products Mastering Dashboard Stem Splitter & Vocal Remover Music Video Generator Visual Creator Resources Pricing Wiki About Blog Free Tools Loudness Penalty LUFS Meter Free Vocal Remover & Stem Splitter Free Voice Cleaner & Noise Remover",
+    "primary_task": "AI Audio Editing",
+    "categories": [
+      "AI Audio Editing",
+      "AI Audio Enhancer"
+    ],
+    "tags": [
+      "ai audio editing",
+      "ai audio enhancer"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Text",
+      "Audio",
+      "URL"
+    ],
+    "outputs": [
+      "Generated Image",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:18.065158+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://soundboost.com/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/soundboost",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "All LLM providers failed or were unconfigured."
+    ]
+  },
+  {
+    "candidate_id": "candidate-yoursonggift",
+    "record_id": "candidate-yoursonggift",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:21.983651+00:00",
+    "tool_name": "Your Song Gift",
+    "company_developer": null,
+    "official_website": "https://yoursonggift.net/",
+    "logo_url": null,
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Create a personalized song gift from your memories and stories. Make a meaningful custom song for birthdays, anniversaries, love, and special moments.",
+    "detailed_overview": "Personalized Song Gift - Create a Song for Someone Special Your Song Gift Pricing About Create a Song Gift Send a Song My Drafts My Gifts Wallet Contact Your Song Gift Create a Personalized Song Gift They'll Never Forget Turn your memories, stories, and feelings into a heartfelt personalized song for someone special. Create Your Song Gift Listen to examples No songwriting skills needed · Review lyrics first · Private by default Your memory A memory only you could tell. Made for someone special S",
+    "primary_task": "AI Song Generator",
+    "categories": [
+      "AI Song Generator",
+      "AI Music Generator"
+    ],
+    "tags": [
+      "ai song generator",
+      "ai music generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:19.881640+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://yoursonggift.net/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/yoursonggift",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "All LLM providers failed or were unconfigured."
+    ]
+  },
+  {
+    "candidate_id": "candidate-muzegen",
+    "record_id": "candidate-muzegen",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:31.794269+00:00",
+    "tool_name": "Muzegen.ai - Générateur de musique IA",
+    "company_developer": "Muzegen AI",
+    "official_website": "https://muzegen.ai/",
+    "logo_url": "https://muzegen.ai/favicon-32x32.png",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Muzegen.ai is an AI-powered music generator and song creation platform. It allows users to transform lyrics and creative prompts into music tracks.",
+    "detailed_overview": "Muzegen.ai enables users to convert text lyrics and inspirations into high-quality music tracks via a web platform. The tool supports generating various styles of songs based on user prompts. Verified information regarding pricing, input/output formats, and API availability is not provided in the source text.",
+    "primary_task": "AI Marketing Campaign Manager",
+    "categories": [
+      "AI Marketing Campaign Manager",
+      "AI Music Generator"
+    ],
+    "tags": [
+      "ai marketing campaign manager",
+      "ai music generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:21.425176+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://muzegen.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/muzegen",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-suno-ai-api",
+    "record_id": "candidate-suno-ai-api",
+    "entity_type": "tool",
+    "verification_status": "partially_verified",
+    "verification_errors": [
+      "Partial branding evidence for 'Suno AI API' on domain 'apiframe.ai' (title: 'seedance 2.5 api for ai video generation – apiframe', mentions: 0)"
+    ],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:41.620199+00:00",
+    "tool_name": "Suno AI API",
+    "company_developer": null,
+    "official_website": "https://apiframe.ai/models/seedance-2.5",
+    "logo_url": "https://apiframe.ai/favicon.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Suno AI API functions as an AI instrumental generator that accepts image and text inputs to produce audio, video, and generated image outputs.",
+    "detailed_overview": "This tool operates on the Windows platform and supports integrations with GitHub and Discord under a paid pricing model. It processes verified inputs such as images and text to deliver generated images, audio, and video outputs.",
+    "primary_task": "AI Instrumental Generator",
+    "categories": [
+      "AI Instrumental Generator",
+      "AI API",
+      "AI Video Generator",
+      "Image to Video",
+      "Text to Image",
+      "AI Image Generator",
+      "Image to Image",
+      "AI Photo & Image Generator",
+      "Text to Video"
+    ],
+    "tags": [
+      "ai instrumental generator",
+      "ai api",
+      "ai video generator",
+      "image to video",
+      "text to image",
+      "ai image generator",
+      "image to image",
+      "ai photo & image generator",
+      "text to video"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "Image",
+      "Text"
+    ],
+    "outputs": [
+      "Generated Image",
+      "Audio",
+      "Video"
+    ],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "integrations": [
+      "GitHub",
+      "Discord"
+    ],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:22.616673+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://apiframe.ai/models/seedance-2.5",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/suno-ai-api",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-audioai",
+    "record_id": "candidate-audioai",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:42.952436+00:00",
+    "tool_name": "AI Audio Enhancer",
+    "company_developer": "Audio AI",
+    "official_website": "https://audioai.io/",
+    "logo_url": "https://audioai.io/favicon.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "AI Audio Enhancer is a web-based tool designed to clean up, remove noise from, and enhance audio files.",
+    "detailed_overview": "The tool accepts PDF or document, audio, and video inputs to produce enhanced audio outputs. Its capabilities include removing background noise, audio hum removal, noise reduction, and extracting or cleaning up audio.",
+    "primary_task": "AI Audio Enhancer",
+    "categories": [
+      "AI Audio Enhancer",
+      "AI Noise Cancellation"
+    ],
+    "tags": [
+      "ai audio enhancer",
+      "ai noise cancellation"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [
+      "PDF / Document",
+      "Audio",
+      "Video"
+    ],
+    "outputs": [
+      "Audio"
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": null,
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:24.359166+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://audioai.io/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/audioai",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  },
+  {
+    "candidate_id": "candidate-songcove",
+    "record_id": "candidate-songcove",
+    "entity_type": "tool",
+    "verification_status": "verified",
+    "verification_errors": [],
+    "created_at": "2026-09-18T17:34:59.056492+00:00",
+    "updated_at": "2026-09-18T17:40:44.326959+00:00",
+    "tool_name": "Songcove",
+    "company_developer": null,
+    "official_website": "https://songcove.ai/",
+    "logo_url": "https://songcove.ai/icon.svg?icon.3fn-4i9gllgma.svg",
+    "country": null,
+    "version": null,
+    "launch_date": null,
+    "current_status": null,
+    "short_description": "Songcove is an AI song generator that creates custom songs from personal stories and memories for loved ones.",
+    "detailed_overview": "The tool allows users to turn a memory into an original song sung by a studio voice or cloned from their own voice, with options to write from a real story and deliver results in minutes. It supports web platforms and operates on a paid pricing model with a free-to-try feature.",
+    "primary_task": "AI Song Generator",
+    "categories": [
+      "AI Song Generator",
+      "AI Lyrics Generator"
+    ],
+    "tags": [
+      "ai song generator",
+      "ai lyrics generator"
+    ],
+    "key_features": [],
+    "main_use_cases": [],
+    "ai_capabilities": [],
+    "inputs": [],
+    "outputs": [],
+    "supported_platforms": [
+      "Web"
+    ],
+    "integrations": [],
+    "api_availability": null,
+    "open_source_status": null,
+    "signup_requirement": null,
+    "pricing_model": "Paid",
+    "starting_price": null,
+    "free_plan": null,
+    "free_trial": null,
+    "important_usage_limits": null,
+    "pros": [],
+    "cons": [],
+    "limitations": [],
+    "ai_orbit_summary": null,
+    "usage_adoption_signals": null,
+    "last_verified_date": "2026-09-18T17:37:25.778572+00:00",
+    "discovery_source": "Creati.ai",
+    "discovery_source_url": "https://creati.ai/ai-tools/",
+    "verification_source": "Official Website",
+    "verification_source_url": "https://songcove.ai/",
+    "discovery_references": [
+      {
+        "source": "Creati.ai",
+        "source_url": "https://creati.ai/ai-tools/",
+        "discovered_url": "https://creati.ai/ai-tools/songcove",
+        "discovered_at": "2026-09-18T17:34:59.056492+00:00"
+      }
+    ],
+    "enrichment_status": "enriched",
+    "enrichment_provider": "gemini"
+  }
+]

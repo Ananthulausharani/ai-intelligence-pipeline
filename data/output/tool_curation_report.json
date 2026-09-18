@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-09-18T17:48:29.638288+00:00",
+  "execution_time_sec": 0.03,
+  "raw_candidates_discovered": 300,
+  "candidates_after_deduplication": 60,
+  "candidates_verified": 60,
+  "candidates_enriched": 60,
+  "candidates_rejected": 54,
+  "rejection_reasons": {
+    "Quality score 50.0 below threshold (60.0)": 6,
+    "Quality score 57.0 below threshold (60.0)": 4,
+    "Quality score 56.0 below threshold (60.0)": 2,
+    "Quality score 52.0 below threshold (60.0)": 4,
+    "Quality score 53.0 below threshold (60.0)": 2,
+    "Quality score 53.5 below threshold (60.0)": 2,
+    "Quality score 45.0 below threshold (60.0)": 6,
+    "Quality score 39.0 below threshold (60.0)": 5,
+    "Quality score 35.0 below threshold (60.0)": 1,
+    "Quality score 48.0 below threshold (60.0)": 4,
+    "Quality score 46.0 below threshold (60.0)": 1,
+    "Score 64.0 in 60-69 range without distinctive qualifying justification": 1,
+    "Score 61.0 in 60-69 range without distinctive qualifying justification": 1,
+    "Quality score 44.0 below threshold (60.0)": 3,
+    "Quality score 47.0 below threshold (60.0)": 1,
+    "Quality score 56.5 below threshold (60.0)": 1,
+    "Quality score 51.5 below threshold (60.0)": 2,
+    "Quality score 54.0 below threshold (60.0)": 1,
+    "Quality score 52.5 below threshold (60.0)": 1,
+    "Quality score 49.0 below threshold (60.0)": 2,
+    "Quality score 55.5 below threshold (60.0)": 1,
+    "Quality score 45.5 below threshold (60.0)": 1,
+    "Score 65.5 in 60-69 range without distinctive qualifying justification": 1,
+    "Quality score 34.0 below threshold (60.0)": 1
+  },
+  "final_qualifying_count": 6,
+  "target_cap": 1000,
+  "score_distribution": {
+    "Exceptional (90-100)": 0,
+    "Excellent (80-89)": 0,
+    "Good (70-79)": 0,
+    "Average / Skip (60-69)": 9,
+    "Reject (<60)": 51
+  },
+  "duplicate_count": 0,
+  "missing_official_website_count": 0,
+  "missing_logo_count": 0,
+  "missing_pricing_count": 0,
+  "missing_description_count": 0,
+  "validation_failures": 0,
+  "source_distribution": {
+    "Creati.ai": 6
+  }
+}
